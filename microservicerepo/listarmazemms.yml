@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    password: gamer
+    username: root
+    url: jdbc:mysql://localhost:3306/dbarmazemms
+  jpa:
+    hibernate:
+      ddl-auto: update
